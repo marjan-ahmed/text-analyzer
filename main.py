@@ -53,7 +53,7 @@ def check_word_existance(user_para: str):
             st.success("False")
 
 
-st.title("Text Analyzer")
+st.title("📝 Text Analyzer")
 
 user_para = st.text_area("Enter a paragraph:")
 
